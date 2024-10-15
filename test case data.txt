@@ -1,0 +1,6 @@
+i want to generate a test case document 
+
+so use my this given code to give me the necessary details what i ask 
+
+
+test report id | test case id | objectives| Test Inputs|Expected output|observed output refred Log(s)|status|test class/category|remarks
